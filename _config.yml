@@ -12,7 +12,7 @@ github_repo: "https://github.com/saluton1915/saluton1915.github.io.git" # you co
 # Sidebar settings
 sidebar:                          # whether or not using Sidebar.
 sidebar-about-description: 
-sidebar-avatar: /img/      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
