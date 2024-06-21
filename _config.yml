@@ -3,16 +3,16 @@ title: 旭炀的博客
 SEOTitle: Xuyang's Blog
 header-img: img/black.png
 email: saluton1915@gmail.com
-description: "写一些东西的小花园。"
+description: "空中花园"
 keyword: "博客,物理, 计算机, physics, blog, computer,  Xuyang Guo"
 url: "https://saluton1915.github.io/"          # your host, for absolute URL
 baseurl:
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/saluton1915/saluton1915.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar:                          # whether or not using Sidebar.
 sidebar-about-description: 
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
