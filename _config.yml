@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID:                     #生成的clientID
-  clientSecret:     #生成的clientSecret
+  clientID:  Ov23li4XquvWCU5WKq2u                   #生成的clientID
+  clientSecret: 0445c3cfa11f9640ca87977b71325917c83bc161     #生成的clientSecret
   repo: saluton1915.github.io    #仓库名称
   owner: saluton1915     #github用户名
   admin: saluton1915
