@@ -4,7 +4,7 @@ title:      【视频整理】从头读康德、黑格尔、马克思，“需�
 subtitle:   整理https://www.bilibili.com/video/BV1AW42197sZ 中提到的书籍 #副标题
 date:       2024-09-23 				# 时间
 author:     Xuyang						# 作者
-header-img: img/arch.png 	#这篇文章标题背景图片
+header-img: img/black.png 	#这篇文章标题背景图片
 catalog:  						# 是否归档
 tags:								#标签
     - 哲学
